@@ -1,0 +1,25 @@
+.chat-content {
+    height: 450px;
+    padding: 10px;
+  }
+  .chat-content li {
+    margin-top: 10px;
+  }
+  .text-small {
+    font-size: 12px;
+    color: gray;
+    margin-bottom: 0;
+  }
+  .chat-box {
+    background: #eee;
+    padding: 5px;
+    border-radius: 5px;
+    float: left;
+  }
+  .mine {
+    float: right;
+  }
+
+  ul,li{
+    list-style:none;
+    }
